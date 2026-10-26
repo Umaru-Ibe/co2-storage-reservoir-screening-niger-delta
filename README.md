@@ -7,7 +7,7 @@ Machine Learning-based screening and ranking of potential CO2 storage reservoirs
 
 ## Workflow
 1. Petrophysics: Vsh (Larionov), PHIe (density-neutron), K (Timur-Coates), NTG
-2. Screening criteria: Depth 800-3000m, PHIe>15%, K>100mD, Seal>10m, So<0.4
+2. Screening criteria: Depth 1500-3500m, PHIe>15%, K>100mD, Seal>10m, So<0.4
 3. ML: Random Forest / XGBoost to rank storage suitability + K-means fairway
 4. Explainability: SHAP for feature importance, Blind-well validation
 
