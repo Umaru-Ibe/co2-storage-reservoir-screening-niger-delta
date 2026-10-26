@@ -19,9 +19,9 @@ Machine Learning-based screening and ranking of potential CO2 storage reservoirs
 - Storage Capacity (UTI field): 2.58-22.4 MM tons at 10% efficiency
 
 ## Visuals
-![SHAP Feature Importance](images/shap_summary.png)
-![GIS Fairway Map](images/gis_fairway.png)
-
+![SHAP Summary](images/shap_summary.png)
+![GIS Fairway](images/gis_fairway.png)
+![Project Overview](images/overview.png)
 ## Reproducibility
 ```bash
 pip install -r requirements.txt
