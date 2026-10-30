@@ -354,4 +354,4 @@ Geophysicist | Reservoir Characterization | Formation Evaluation | 3D Seismic In
 
 ### Contact
 
-📧 umaruibe@gmail.comarbon storage assessment and subsurface decision-support systems.*
+📧 umaruibe@gmail.com carbon storage assessment and subsurface decision-support systems.*
