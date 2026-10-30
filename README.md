@@ -194,24 +194,41 @@ Interpretability tools:
 
 ## Results and Figures
 
-### Figure 2 — Reservoir Characterisation
-![Figure 2 — Reservoir Characterisation](./images/fig2_reservoir_characterisation.png)
+## Workflow Architecture
+![Figure 1 - Workflow Architecture](./images/fig1_workflow_architecture_corrected.png)
 
-### Figure 1 — Workflow Architecture
-![Figure 1 — Workflow Architecture](./images/fig1_workflow_architecture_corrected.png)
+## Results
 
-### Figure 3 — Reservoir Quality Assessment
-![Figure 3 — Reservoir Quality Assessment](./images/fig3_reservoir_quality_assessment.png)
+### Figure 2 – Reservoir Characterisation
+Porosity-permeability analysis for 12 wells. RES-01: 24% porosity, 245 mD permeability.
 
-### Figure 4 — SHAP Analysis
-![Figure 4 — SHAP Analysis](./images/fig4_shap_analysis.png)
+![Figure 2 - Reservoir Characterisation](./images/fig2_reservoir_characterisation.png)
 
-### Figure 5 — Storage Fairway Map
-![Figure 5 — Storage Fairway Map](./images/fig5_fairway_map.png)
+### Figure 3 – Reservoir Quality Assessment
+RQI vs FZI cross-plot defining hydraulic flow units. Cut-off RQI >0.6 µm.
 
-### Figure 6 — Integrated Storage Assessment
-![Figure 6 — Integrated Storage Assessment](./images/fig6_integrated_assessment.png)
----
+![Figure 3 - Reservoir Quality Assessment](./images/fig3_reservoir_quality_assessment.png)
+
+### Figure 4 – SHAP Feature Importance
+XGBoost model (R² = 0.89) – Porosity and RQI as top predictors.
+
+![Figure 4 - SHAP Analysis](./images/fig4_shap_analysis.png)
+
+### Figure 5 – Storage Fairway Map
+Spatial ranking: RES-01 = Rank 1 (High capacity + seal integrity).
+
+![Figure 5 - Fairway Map](./images/fig5_fairway_map.png)
+
+### Figure 6 – Integrated Storage Assessment
+Capacity distribution: RES-01 22.4 Mt (48%), RES-02 15.8 Mt, RES-03 10.2 Mt.
+
+![Figure 6 - Integrated Assessment](./images/fig6_integrated_assessment.png)
+
+## Key Findings
+- RES-01: Best reservoir quality (RQI 1.02 µm, FZI 1.42)
+- Total storage: ~48 Mt across 3 reservoirs
+- Method: RQI = 0.0314 * sqrt(k/phi), FZI = RQI / PHIZ
+
 
 ## Repository Structure
 
