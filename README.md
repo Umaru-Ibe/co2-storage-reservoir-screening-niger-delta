@@ -194,10 +194,10 @@ Interpretability tools:
 
 ## Results and Figures
 
-### Figure 0 — Reservoir Characterisation
+### Figure 2 — Reservoir Characterisation
 
 ```text
-images/fig0_reservoir_characterisation.png
+images/fig2_reservoir_characterisation.png
 ```
 
 ### Figure 1 — Workflow Architecture
@@ -206,28 +206,28 @@ images/fig0_reservoir_characterisation.png
 images/fig1_workflow_architecture_corrected.png
 ```
 
-### Figure 1B — Reservoir Quality Assessment
+### Figure 3 — Reservoir Quality Assessment
 
 ```text
-images/fig1b_reservoir_quality_assessment.png
+images/fig3_reservoir_quality_assessment.png
 ```
 
-### Figure 2 — SHAP Analysis
+### Figure 4 — SHAP Analysis
 
 ```text
-images/fig2_shap_analysis.png
+images/fig4_shap_analysis.png
 ```
 
-### Figure 3 — Storage Fairway Map
+### Figure 5 — Storage Fairway Map
 
 ```text
-images/fig3_fairway_map.png
+images/fig5_fairway_map.png
 ```
 
-### Figure 4 — Integrated Storage Assessment
+### Figure 6 — Integrated Storage Assessment
 
 ```text
-images/fig4_integrated_assessment.png
+images/fig6_integrated_assessment.png
 ```
 
 ---
